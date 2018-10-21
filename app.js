@@ -1,4 +1,4 @@
-let apiKey = '***';
+let apiKey = '***test***';
 let city = 'lisbon,pt';
 let url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}`
 
